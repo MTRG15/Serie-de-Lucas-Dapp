@@ -9,6 +9,8 @@
 // Marco Ramírez
 // CI: 24148570
 
+// Explanation of this code available in 
+// https://youtu.be/RvgqIOVtLIA
 pragma solidity ^0.8.0;
 // SPDX-License-Identifier: UNLICENSED
 contract SerieLucas {
