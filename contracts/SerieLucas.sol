@@ -4,6 +4,11 @@
 // Ganache GUI, which created and administered the descentralized distributed system based on the
 // Ethereum blockchain 
 
+
+// Created by 
+// Marco Ramírez
+// CI: 24148570
+
 pragma solidity ^0.8.0;
 // SPDX-License-Identifier: UNLICENSED
 contract SerieLucas {
