@@ -1,0 +1,20 @@
+INFORMACION DE PROYECTO
+
+Elaborado por
+Marco Ramírez
+CI: 24148570
+
+Repositorio con el Proyecto
+https://github.com/MTRG15/Serie-de-Lucas-Dapp
+
+Video de ejecución y explicación del sistema
+https://youtu.be/RvgqIOVtLIA
+
+Archivos de Interés
+
+	/contracts/SerieLucas.sol
+	Algoritmo principal que genera la serie de lucas, incluye comentarios adicionales al video de explicación
+
+	/index.html
+	Página web sencilla que hace contacto con el contrato en la blockchain
+	Nota: la función "increase" del contrato SerieLucas.sol sólo está disponible si la página está alojada en un servidor conectado a internet (limitación de Metamask).
